@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.exe
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.deps.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.genruntimeconfig.cache

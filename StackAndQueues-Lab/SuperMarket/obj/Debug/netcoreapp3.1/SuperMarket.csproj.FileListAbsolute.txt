@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.exe
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.deps.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\bin\Debug\netcoreapp3.1\SuperMarket.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\SuperMarket\obj\Debug\netcoreapp3.1\SuperMarket.genruntimeconfig.cache

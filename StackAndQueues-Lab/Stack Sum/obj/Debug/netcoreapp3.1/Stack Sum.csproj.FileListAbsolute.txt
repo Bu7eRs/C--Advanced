@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.exe
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.deps.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\bin\Debug\netcoreapp3.1\Stack Sum.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.dll
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.pdb
+C:\Users\RedTapeServices\source\repos\StackAndQueues-Lab\Stack Sum\obj\Debug\netcoreapp3.1\Stack Sum.genruntimeconfig.cache
