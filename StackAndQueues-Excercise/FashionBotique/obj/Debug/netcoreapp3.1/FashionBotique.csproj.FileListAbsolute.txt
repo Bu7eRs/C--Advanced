@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\bin\Debug\netcoreapp3.1\FashionBotique.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FashionBotique\obj\Debug\netcoreapp3.1\FashionBotique.genruntimeconfig.cache

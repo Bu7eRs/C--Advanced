@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.genruntimeconfig.cache

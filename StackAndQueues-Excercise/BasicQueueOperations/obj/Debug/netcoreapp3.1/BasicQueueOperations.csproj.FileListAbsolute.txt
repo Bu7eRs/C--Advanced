@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.genruntimeconfig.cache

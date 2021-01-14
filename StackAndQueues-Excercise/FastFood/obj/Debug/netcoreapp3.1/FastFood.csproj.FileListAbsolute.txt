@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.genruntimeconfig.cache

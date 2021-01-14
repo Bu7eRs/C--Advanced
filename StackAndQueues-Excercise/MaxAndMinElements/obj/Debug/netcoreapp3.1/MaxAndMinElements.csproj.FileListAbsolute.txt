@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\bin\Debug\netcoreapp3.1\MaxAndMinElements.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\MaxAndMinElements\obj\Debug\netcoreapp3.1\MaxAndMinElements.genruntimeconfig.cache
