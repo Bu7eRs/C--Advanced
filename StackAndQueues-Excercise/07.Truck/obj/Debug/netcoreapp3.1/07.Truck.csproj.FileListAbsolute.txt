@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\bin\Debug\netcoreapp3.1\07.Truck.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\07.Truck\obj\Debug\netcoreapp3.1\07.Truck.genruntimeconfig.cache
