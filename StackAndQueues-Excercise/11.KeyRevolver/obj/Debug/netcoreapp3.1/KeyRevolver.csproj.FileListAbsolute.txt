@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.exe
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.deps.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\RedTapeServices\source\repos\StackNQueues_Excercise\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.genruntimeconfig.cache
