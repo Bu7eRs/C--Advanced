@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RedTapeServices\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RedTapeServices\\.nuget\\packages"
+    ]
+  }
+}
