@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.exe
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.deps.json
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.dll
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.dll
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\Users\RedTapeServices\source\repos\MultidimentionalArrays\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.genruntimeconfig.cache
