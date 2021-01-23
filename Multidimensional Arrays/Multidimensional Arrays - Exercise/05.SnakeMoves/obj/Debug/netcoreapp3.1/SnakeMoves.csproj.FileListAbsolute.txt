@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\RedTapeServices\source\repos\MultiDArraysExc\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache
