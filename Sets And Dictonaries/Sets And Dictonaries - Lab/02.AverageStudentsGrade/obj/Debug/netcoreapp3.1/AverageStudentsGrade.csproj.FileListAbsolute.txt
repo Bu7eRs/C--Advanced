@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.genruntimeconfig.cache

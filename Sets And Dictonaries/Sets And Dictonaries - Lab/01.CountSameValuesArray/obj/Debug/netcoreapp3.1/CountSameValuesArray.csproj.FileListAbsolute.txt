@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\bin\Debug\netcoreapp3.1\CountSameValuesArray.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\CountSameValuesArray\obj\Debug\netcoreapp3.1\CountSameValuesArray.genruntimeconfig.cache
