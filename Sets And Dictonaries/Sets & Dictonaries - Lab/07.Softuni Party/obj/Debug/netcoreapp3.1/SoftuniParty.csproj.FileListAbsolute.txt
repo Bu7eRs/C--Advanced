@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\bin\Debug\netcoreapp3.1\SoftuniParty.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\SoftuniParty\obj\Debug\netcoreapp3.1\SoftuniParty.genruntimeconfig.cache

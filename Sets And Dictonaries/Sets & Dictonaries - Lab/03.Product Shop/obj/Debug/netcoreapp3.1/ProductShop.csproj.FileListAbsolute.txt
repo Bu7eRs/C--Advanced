@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache

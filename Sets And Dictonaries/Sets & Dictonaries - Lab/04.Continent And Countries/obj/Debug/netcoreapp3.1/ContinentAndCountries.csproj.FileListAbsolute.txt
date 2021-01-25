@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\bin\Debug\netcoreapp3.1\ContinentAndCountries.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.genruntimeconfig.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDicsLab\ContinentAndCountries\obj\Debug\netcoreapp3.1\ContinentAndCountries.csprojAssemblyReference.cache
