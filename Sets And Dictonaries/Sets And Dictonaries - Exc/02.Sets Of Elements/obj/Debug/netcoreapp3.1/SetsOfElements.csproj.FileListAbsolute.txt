@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

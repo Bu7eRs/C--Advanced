@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\Unique Names.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\Unique Names.genruntimeconfig.cache

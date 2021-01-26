@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.exe
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.deps.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\bin\Debug\netcoreapp3.1\SetsAndDictonaries.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.dll
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.pdb
+C:\Users\RedTapeServices\source\repos\SetsAndDictonaries\SetsAndDictonaries\obj\Debug\netcoreapp3.1\SetsAndDictonaries.genruntimeconfig.cache
