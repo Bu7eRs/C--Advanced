@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.exe
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.deps.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp3.1\SortEvenNumbers.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp3.1\SortEvenNumbers.genruntimeconfig.cache

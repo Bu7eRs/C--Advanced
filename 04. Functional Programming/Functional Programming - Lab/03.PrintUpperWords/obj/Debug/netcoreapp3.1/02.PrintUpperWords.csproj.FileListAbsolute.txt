@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.exe
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.deps.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\bin\Debug\netcoreapp3.1\02.PrintUpperWords.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.csprojAssemblyReference.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\02.PrintUpperWords\obj\Debug\netcoreapp3.1\02.PrintUpperWords.genruntimeconfig.cache

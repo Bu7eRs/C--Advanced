@@ -1,0 +1,12 @@
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.exe
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\RedTapeServices\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache
