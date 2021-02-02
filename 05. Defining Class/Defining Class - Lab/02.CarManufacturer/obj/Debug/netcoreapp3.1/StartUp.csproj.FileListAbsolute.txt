@@ -1,0 +1,13 @@
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.exe
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.deps.json
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.runtimeconfig.json
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.runtimeconfig.dev.json
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.dll
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\bin\Debug\netcoreapp3.1\StartUp.pdb
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.AssemblyInfoInputs.cache
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.AssemblyInfo.cs
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.dll
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.pdb
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.genruntimeconfig.cache
+C:\Users\RedTapeServices\source\repos\DefiningClassesLab\CarManufacturer\obj\Debug\netcoreapp3.1\StartUp.csprojAssemblyReference.cache
