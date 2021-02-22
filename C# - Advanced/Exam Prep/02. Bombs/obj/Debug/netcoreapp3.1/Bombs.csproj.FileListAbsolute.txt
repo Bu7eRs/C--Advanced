@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Admin\source\repos\ExamPreparation\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache
