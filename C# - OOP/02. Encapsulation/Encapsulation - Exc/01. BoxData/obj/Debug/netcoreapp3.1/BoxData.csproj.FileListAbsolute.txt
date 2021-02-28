@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.exe
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.deps.json
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.json
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.dll
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\bin\Debug\netcoreapp3.1\BoxData.pdb
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.dll
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.pdb
+C:\Users\Admin\source\repos\Encapsulation-Exc\BoxData\obj\Debug\netcoreapp3.1\BoxData.genruntimeconfig.cache
