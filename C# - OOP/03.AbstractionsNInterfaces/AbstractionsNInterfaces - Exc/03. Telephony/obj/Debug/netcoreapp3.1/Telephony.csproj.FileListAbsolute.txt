@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\Admin\source\repos\AbstractionsExc\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
