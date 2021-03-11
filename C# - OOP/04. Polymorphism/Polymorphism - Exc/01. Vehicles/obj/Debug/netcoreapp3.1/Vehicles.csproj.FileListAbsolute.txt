@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Admin\source\repos\Abstraction\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Admin\source\repos\Abstraction\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
