@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.exe
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.deps.json
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.runtimeconfig.json
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.dll
+C:\Users\Admin\source\repos\Abstraction\Raiding\bin\Debug\netcoreapp3.1\Riding.pdb
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.dll
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.pdb
+C:\Users\Admin\source\repos\Abstraction\Raiding\obj\Debug\netcoreapp3.1\Riding.genruntimeconfig.cache
