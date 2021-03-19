@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\Admin\Desktop\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache
