@@ -44,4 +44,4 @@ class SC extends pulumi.ComponentResource {
         
  }};
 
- module.exports = SC; // 👈 Export class
+ module.exports = SC;
